@@ -7,6 +7,9 @@
 - 必要なライブラリの導入
 - 動作確認
 
+## 困ったときは
+
+事前準備でわからないことがあったり、トラブルが起きた場合は [Issues](https://github.com/SnowMasaya/time_series_anomaly_detect_hands_on/issues) から連絡をお願いします。
 
 ## 仮想環境の準備
 
@@ -66,7 +69,7 @@ pip install -r requirement.txt
 下記コマンドで動作します。
 
 ```
-ipython notebook
+jupyter notebook
 ```
 
 #
