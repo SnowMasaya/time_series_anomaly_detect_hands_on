@@ -71,6 +71,7 @@ pip install -r requirement.txt
     matplotlib
     lxml
     beautiful-soup4
+    scipy
 
 ```
 
