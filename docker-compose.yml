@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+  jupyter:
+    build: "./"
+    ports:
+      - "0.0.0.0:8888:8888"
+    volumes:
+      - ./:/home/jupyter
