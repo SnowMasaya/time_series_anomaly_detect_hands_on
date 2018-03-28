@@ -40,6 +40,16 @@ source my_env/bin/activate
 
 ```
 
+Windows
+
+[Miniconda](https://conda.io/miniconda.html)を導入して下さい
+
+```
+conda create -n anomaly python=3 numpy scipy scikit-learn pandas matplotlib statsmodels jupyter
+activate anomaly
+pip install beautifulsoup4 lxml
+````
+
 ## 必要なライブラリを導入
 
 
