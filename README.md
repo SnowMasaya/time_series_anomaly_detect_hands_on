@@ -72,6 +72,21 @@ pip install -r requirement.txt
 jupyter notebook
 ```
 
+## Dockerを使う方法
+```
+docker-compose up
+```
+
+上記の
+- 仮想環境の準備
+- 必要なライブラリの導入
+- 動作確認（jupyter notebookの起動）
+
+がコンテナ内で実行されます。
+
+詳しくは、 [Dockerfile](./Dockerfile), [docker-compose.yml](./docker-compose.yml) を参照。
+
+
 #
 ### Licence
 #
