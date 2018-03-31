@@ -8,3 +8,5 @@ lxml==4.2.0
 bs4==0.0.1
 scikit-learn==0.19.1
 scipy==1.0.0
+keras==2.1.5
+tensorflow==1.7.0
